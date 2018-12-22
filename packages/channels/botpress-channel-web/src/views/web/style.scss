@@ -10,8 +10,9 @@ body {
   background-image: url('/api/botpress-platform-webchat/static/avatar_default.png');
   background-size: 80%;
   background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
+  width: 0;
+  height: 0;
+  display: none;
 }
 
 .web {
